@@ -1,12 +1,12 @@
 package main
 
 import (
-	_ "weixin/models"
-	"github.com/astaxie/beego/logs"
-	_ "weixin/routers"
+	"encoding/json"
+	"fmt"
 	"github.com/astaxie/beego"
-	 "encoding/json"
-    "fmt"
+	"github.com/astaxie/beego/logs"
+	_ "weixin/models"
+	_ "weixin/routers"
 )
 
 func main() {

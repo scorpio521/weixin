@@ -3,8 +3,8 @@ package class
 import (
 	"fmt"
 	"github.com/astaxie/beego/orm"
-	"weixin/tools"
 	"time"
+	"weixin/tools"
 )
 
 

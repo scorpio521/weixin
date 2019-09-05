@@ -3,8 +3,8 @@ package class
 import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
-	"weixin/tools"
 	"time"
+	"weixin/tools"
 )
 
 // 完成Contact类型定义

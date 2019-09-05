@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"weixin/models/class"
 	"fmt"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/validation" // 用于校验信息
+	"weixin/models/class"
 )
 
 type UserController struct {

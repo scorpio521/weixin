@@ -1,15 +1,15 @@
 package controllers
 import (
-	"weixin/models/class"
-    "github.com/astaxie/beego"
-    "strings"
-    "sort"
-    "crypto/sha1"
-    "io"
-    "fmt"
-	_"encoding/json"
+	"crypto/sha1"
+	_ "encoding/json"
 	"encoding/xml"
-    "time"
+	"fmt"
+	"github.com/astaxie/beego"
+	"io"
+	"sort"
+	"strings"
+	"time"
+	"weixin/models/class"
 )
 type WXController struct {
 	beego.Controller

@@ -3,7 +3,7 @@ package class
 import (
 	"fmt"
 	"github.com/astaxie/beego/orm"
-	"learnbeego/blog/tools"
+	"weixin/tools"
 )
 
 

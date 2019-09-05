@@ -4,7 +4,7 @@ import (
 	//"fmt"
 	"github.com/astaxie/beego"
 	_ "github.com/silenceper/wechat/message"
-	"learnbeego/blog/tools"
+	"weixin/tools"
 
 	//"learnbeego/blog/models/class"
 	//"encoding/json"

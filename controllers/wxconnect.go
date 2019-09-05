@@ -1,6 +1,6 @@
 package controllers
 import (
-	"learnbeego/blog/models/class"
+	"weixin/models/class"
     "github.com/astaxie/beego"
     "strings"
     "sort"

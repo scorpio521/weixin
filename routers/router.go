@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"learnbeego/blog/controllers"
+	"weixin/controllers"
 	"github.com/astaxie/beego"
 )
 

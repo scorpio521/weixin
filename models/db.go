@@ -4,7 +4,7 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	_ "github.com/go-sql-driver/mysql"
-	"learnbeego/blog/models/class" // 注册模型，需要引入该包
+	"weixin/models/class" // 注册模型，需要引入该包
 )
 
 /*

@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"learnbeego/blog/models/class"
+	"weixin/models/class"
 	"fmt"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/validation" // 用于校验信息
